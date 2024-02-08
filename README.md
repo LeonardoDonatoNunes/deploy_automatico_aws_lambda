@@ -4,6 +4,8 @@ Criar uma automatização do deploy de uma função lamba quando o repositório 
 
 Conteúdo apresentado em https://www.youtube.com/watch?v=AmHZxULclLQ&ab_channel=FelixYu
 
+<img src = https://github.com/LeonardoDonatoNunes/deploy_automatico_aws_lambda/blob/main/esquemaAutomatizacaoDeployLambda.png width=50%>
+
 Etapas:
 
 * Criar uma função lambda 
