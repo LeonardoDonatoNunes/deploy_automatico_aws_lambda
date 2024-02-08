@@ -1,4 +1,4 @@
-# teste-integracao-github-actions
+# Deploy automático de uma função Lambda
 
 Criar uma automatização do deploy de uma função lamba quando o repositório é atualizado
 
