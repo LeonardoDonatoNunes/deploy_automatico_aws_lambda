@@ -1,8 +1,10 @@
-# Deploy automático de uma função Lambda em Python
+# Deploy automático de uma função AWS Lambda em Python
+
+Refazer manualmente o deploy de uma função lamda sempre que uma alteração for feita pode ser moroso e tomar um tempo desnecessário. E ainda estar sujeito a esquecimentos e erros do usuário. Por isso, fazer o deploy automático sempre que uma alteração for feita é importante para manter as funções sempre na última versão.
 
 O objetivo do projeto é criar um roteiro para automatizar o deploy de uma função AWS Lambda em Python sempre que um __git push__ for realizado na branch main. Para isso são utilziadas os seguintes serviços: __GitHub__, __Code Build__, __IAM__ e __Lambda__. 
 
-Para reproduzir o projeto é necessário seguir as instruções dadas na sessão [passo a passo](#passo-a-passo-para-executar-o-projeto). Note que alguns arquivos precisam ser modificados.
+Para reproduzir o projeto é necessário seguir as instruções dadas na sessão [passo a passo](#passo-a-passo-para-executar-o-projeto). Note que alguns arquivos precisam ser modificados antes de começar a fazer as aterações.
 
 ## Estrutura do projeto
     .
