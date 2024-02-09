@@ -2,6 +2,8 @@
 
 O objetivo do projeto é criar um roteiro para automatizar o deploy de uma função AWS Lambda em Python sempre que um __git push__ for realizado na branch main. Para isso são utilziadas os seguintes serviços: __GitHub__, __Code Build__, __IAM__ e __Lambda__. 
 
+Para reproduzir o projeto é necessário seguir as instruções dadas na sessão [passo a passo](#passo-a-passo-para-executar-o-projeto). Note que alguns arquivos precisam ser modificados.
+
 ## Estrutura do projeto
     .
     ├── buildspec.yml
